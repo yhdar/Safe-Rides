@@ -1,0 +1,179 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SafeRidesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {707, 523}}";
+			sepNavSelRange = "{182, 0}";
+			sepNavVisRange = "{0, 478}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SafeRidesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {707, 523}}";
+			sepNavSelRange = "{217, 0}";
+			sepNavVisRange = "{0, 887}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SafeRides */ = {
+		activeExec = 0;
+		executables = (
+			C1FFC5BA142E7C3E00A3DF5B /* SafeRides */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C1FFC5BA142E7C3E00A3DF5B /* SafeRides */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SafeRides */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SafeRides */,
+		);
+		codeSenseManager = C1FFC5CE142E7C4D00A3DF5B /* Code sense */;
+		executables = (
+			C1FFC5BA142E7C3E00A3DF5B /* SafeRides */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					529,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 339175881;
+			PBXWorkspaceStateSaveDate = 339175881;
+		};
+		perUserProjectItems = {
+			C161778314376A840028AAA7 /* PBXTextBookmark */ = C161778314376A840028AAA7 /* PBXTextBookmark */;
+			C1FFC645143760ED00A3DF5B /* PBXTextBookmark */ = C1FFC645143760ED00A3DF5B /* PBXTextBookmark */;
+			C1FFC646143760ED00A3DF5B /* PBXTextBookmark */ = C1FFC646143760ED00A3DF5B /* PBXTextBookmark */;
+			C1FFC647143760ED00A3DF5B /* PBXTextBookmark */ = C1FFC647143760ED00A3DF5B /* PBXTextBookmark */;
+			C1FFC649143760ED00A3DF5B /* PBXTextBookmark */ = C1FFC649143760ED00A3DF5B /* PBXTextBookmark */;
+		};
+		sourceControlManager = C1FFC5CD142E7C4D00A3DF5B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C161778314376A840028AAA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SafeRidesAppDelegate.m */;
+		name = "SafeRidesAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 217;
+		rType = 0;
+		vrLen = 887;
+		vrLoc = 0;
+	};
+	C1FFC5BA142E7C3E00A3DF5B /* SafeRides */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SafeRides;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C1FFC5CD142E7C4D00A3DF5B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C1FFC5CE142E7C4D00A3DF5B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C1FFC5D6142E7E4700A3DF5B /* MainViewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {707, 523}}";
+			sepNavSelRange = "{278, 0}";
+			sepNavVisRange = "{0, 525}";
+		};
+	};
+	C1FFC5D7142E7E4700A3DF5B /* MainViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {707, 819}}";
+			sepNavSelRange = "{785, 0}";
+			sepNavVisRange = "{334, 875}";
+		};
+	};
+	C1FFC645143760ED00A3DF5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C1FFC5D6142E7E4700A3DF5B /* MainViewViewController.h */;
+		name = "MainViewViewController.h: 13";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+	C1FFC646143760ED00A3DF5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C1FFC5D7142E7E4700A3DF5B /* MainViewViewController.m */;
+		name = "MainViewViewController.m: 38";
+		rLen = 0;
+		rLoc = 785;
+		rType = 0;
+		vrLen = 875;
+		vrLoc = 334;
+	};
+	C1FFC647143760ED00A3DF5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SafeRidesAppDelegate.h */;
+		name = "SafeRidesAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 182;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	C1FFC649143760ED00A3DF5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SafeRidesAppDelegate.m */;
+		name = "SafeRidesAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 887;
+		vrLoc = 0;
+	};
+}
